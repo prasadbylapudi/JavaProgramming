@@ -1,0 +1,17 @@
+Java:
+
+1.java is mainly used for "application programming".
+    where as c++ is used for the "system programming".
+ 
+ 2.Java does not support  "goto" statement.
+      where as in c++ supports goto statement.
+      
+ 3.Java does not support multiple inheritance you can achieve through the  interfaces in java
+     in c++ supports multiple inheritance.
+  
+  
+  4.java support pointer internally.you can't write pointer program in java.
+      in c++ supports pointers.
+     
+     
+  5.
