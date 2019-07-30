@@ -180,11 +180,37 @@ final strictfp public static void main(String[] args)
          
     -------------------------------------------------------------------------------------------------------------------------------------
               
+              Java variables
+              
+             There are three types of variables
+             1.local variables.
+             2.instance variables
+             3. Static variables.
+             
+             1.LOCAL Variables.
+             declare inside a method.
+             
+             
+             2.INSTANCE Variables
+             menas that we can declare inside class but outside of the method.
+             
+             3.STATIC Variable.
+               variable that can  be declared as static .it can not be local variavle
+              
+              
+              example for the variable declarations.
+              class A{  
+                  int data=50;//instance variable  
+                    static int m=100;//static variable  
+                    void method()
+                    {  
+                      int n=90;//local variable  
+                      
+                    }  
+                }//end of class  
               
               
               
               
-              
-              
-              
-              
+   --------------------------------------------------------------------------------------------------------------------------
+   
