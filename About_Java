@@ -14,4 +14,56 @@ Java:
       in c++ supports pointers.
      
      
-  5.
+  5.Java doesn't support operator overloading
+       c++ support operator overloading
+      
+      
+  6.java uses both compiler and interpreter
+    Java source code is converted into bytecode at compilation time. 
+    the interpreter executes this bytecode at runtime and produces output. 
+    Java is interpreted that is why it is platform independent.
+      
+
+7.Java supports call by value only . There is no call by reference in java.
+    in c++ supports both call by vlaue and call by reference.
+    
+    
+ 8.Java does not support structures and unions.
+       c++ supports structures and unions.
+  
+ 
+ 9.Java has built in thread support.
+            c++ does not support thread.
+            
+            
+            
+ 10.Java support documentation comment (/** .........*/) to create documentation for java source code.
+    
+            C++ doesn't support documentation comment.
+            
+  11.Java has no virtual keyword.we can override all non-static methods by default.
+  
+  
+  12.unsigned right shift(>>>)
+        java support unsigned right shift.that fills zero at the top for the negative numbers.
+            for positive numbers it works same like >> operator
+   
+   
+  13. Java is not so interactive with hardware.
+      c++ is nearer to hardware
+      
+  14. Java does not support header files like C++. 
+        Java uses the import keyword to include different classes and methods.
+  
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+ 
+ 
